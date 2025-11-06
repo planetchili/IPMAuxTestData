@@ -1,0 +1,14 @@
+{
+    "etlFiles":  [
+                     {
+                         "name":  "P00HeaWin2080.etl",
+                         "hash":  "05F3F4BC003B4807EF2037D7F13C6AC92C99F99574AC8D1F351B066AFB9F1E32",
+                         "releaseTag":  "etl-update-20251106150633"
+                     },
+                     {
+                         "name":  "P01TimeSpyDemoFS2080.etl",
+                         "hash":  "7D6CE1341388BF1275C17A93089717B92F80FCF100BAECE0EE06DB3A8DD2A303",
+                         "releaseTag":  "etl-update-20251106150633"
+                     }
+                 ]
+}
