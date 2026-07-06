@@ -1,59 +1,59 @@
 {
-    "etlFiles":  [
-                     {
-                         "name":  "P00HeaWin2080.etl",
-                         "hash":  "05F3F4BC003B4807EF2037D7F13C6AC92C99F99574AC8D1F351B066AFB9F1E32",
-                         "releaseTag":  "etl-update-20251106150633"
-                     },
-                     {
-                         "name":  "P01TimeSpyDemoFS2080.etl",
-                         "hash":  "B1F60DDF4769A0A182FFBD3B62B2D69212A50367D9E8C4229ADE007FDD84482D",
-                         "releaseTag":  "etl-update-20251117152130"
-                     },
-                     {
-                         "name":  "test_case_10.etl",
-                         "hash":  "699753A4339C8C64175F4C8A1146372A152598DCB7236108DF06E1BBEF61D21F",
-                         "releaseTag":  "etl-update-20260512183913"
-                     },
-                     {
-                         "name":  "test_case_11.etl",
-                         "hash":  "3350B35D5EA46734A8594C3DD1423417234D050E6271F63AAE6F341206482689",
-                         "releaseTag":  "etl-update-20260512183913"
-                     },
-                     {
-                         "name":  "test_case_12.etl",
-                         "hash":  "F0EDD8400074303ABD43B3736B88D0CCB3E07BBE53DC33AF680EE982DF5E773E",
-                         "releaseTag":  "etl-update-20260512183913"
-                     },
-                     {
-                         "name":  "test_case_13.etl",
-                         "hash":  "794CB300A2A4887EEFC6AD5AE665FEDD08A7446E7962F3D07A7127B965460636",
-                         "releaseTag":  "etl-update-20260512183913"
-                     },
-                     {
-                         "name":  "test_case_6.etl",
-                         "hash":  "D6443DF4D09C3A5A17B53868599477693B4228F9F957F02C4C692E3237EF4662",
-                         "releaseTag":  "etl-update-20260512183913"
-                     },
-                     {
-                         "name":  "test_case_7.etl",
-                         "hash":  "38D744EA6F7666F7230FB3C9621CA6037B907BA7E8C53E6E1241D68FFE79D611",
-                         "releaseTag":  "etl-update-20260512183913"
-                     },
-                     {
-                         "name":  "test_case_8.etl",
-                         "hash":  "181E86D42D1F279D238E432C1616D708C071794F56D094A08AAA2134DCE5F4D8",
-                         "releaseTag":  "etl-update-20260512183913"
-                     },
-                     {
-                         "name":  "test_case_9.etl",
-                         "hash":  "21D2C8C7F3604B950163F363D549E5E7047543221A4F881F161B1BB3FD254DC5",
-                         "releaseTag":  "etl-update-20260512183913"
-                     },
-                     {
-                         "releaseTag":  "etl-update-20260703175907",
-                         "name":  "P02NomadDemoFS750.etl",
-                         "hash":  "ADA544FA2966EF4B4F4374AC31C901A8D0E3D87B0C27EAC2193E2D4060A24154"
-                     }
-                 ]
+  "etlFiles": [
+    {
+      "name": "P00HeaWin2080.etl",
+      "hash": "05F3F4BC003B4807EF2037D7F13C6AC92C99F99574AC8D1F351B066AFB9F1E32",
+      "releaseTag": "etl-update-20251106150633"
+    },
+    {
+      "name": "P01TimeSpyDemoFS2080.etl",
+      "hash": "B1F60DDF4769A0A182FFBD3B62B2D69212A50367D9E8C4229ADE007FDD84482D",
+      "releaseTag": "etl-update-20251117152130"
+    },
+    {
+      "name": "test_case_10.etl",
+      "hash": "699753A4339C8C64175F4C8A1146372A152598DCB7236108DF06E1BBEF61D21F",
+      "releaseTag": "etl-update-20260512183913"
+    },
+    {
+      "name": "test_case_11.etl",
+      "hash": "3350B35D5EA46734A8594C3DD1423417234D050E6271F63AAE6F341206482689",
+      "releaseTag": "etl-update-20260512183913"
+    },
+    {
+      "name": "test_case_12.etl",
+      "hash": "F0EDD8400074303ABD43B3736B88D0CCB3E07BBE53DC33AF680EE982DF5E773E",
+      "releaseTag": "etl-update-20260512183913"
+    },
+    {
+      "name": "test_case_13.etl",
+      "hash": "794CB300A2A4887EEFC6AD5AE665FEDD08A7446E7962F3D07A7127B965460636",
+      "releaseTag": "etl-update-20260512183913"
+    },
+    {
+      "name": "test_case_6.etl",
+      "hash": "D6443DF4D09C3A5A17B53868599477693B4228F9F957F02C4C692E3237EF4662",
+      "releaseTag": "etl-update-20260512183913"
+    },
+    {
+      "name": "test_case_7.etl",
+      "hash": "38D744EA6F7666F7230FB3C9621CA6037B907BA7E8C53E6E1241D68FFE79D611",
+      "releaseTag": "etl-update-20260512183913"
+    },
+    {
+      "name": "test_case_8.etl",
+      "hash": "181E86D42D1F279D238E432C1616D708C071794F56D094A08AAA2134DCE5F4D8",
+      "releaseTag": "etl-update-20260512183913"
+    },
+    {
+      "name": "test_case_9.etl",
+      "hash": "21D2C8C7F3604B950163F363D549E5E7047543221A4F881F161B1BB3FD254DC5",
+      "releaseTag": "etl-update-20260512183913"
+    },
+    {
+      "releaseTag": "etl-update-20260703175907",
+      "name": "P02NomadDemoFS750.etl",
+      "hash": "ADA544FA2966EF4B4F4374AC31C901A8D0E3D87B0C27EAC2193E2D4060A24154"
+    }
+  ]
 }
