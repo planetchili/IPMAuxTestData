@@ -49,6 +49,11 @@
                          "name":  "test_case_9.etl",
                          "hash":  "21D2C8C7F3604B950163F363D549E5E7047543221A4F881F161B1BB3FD254DC5",
                          "releaseTag":  "etl-update-20260512183913"
+                     },
+                     {
+                         "name":  "P02NomadDemoFS750.etl",
+                         "hash":  "ADA544FA2966EF4B4F4374AC31C901A8D0E3D87B0C27EAC2193E2D4060A24154",
+                         "releaseTag":  "etl-update-20260731113947"
                      }
                  ]
 }
